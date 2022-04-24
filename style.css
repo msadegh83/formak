@@ -1,0 +1,37 @@
+
+body{
+    background: url("images/main-background.jpg");
+    background-size: cover;
+}
+.col-sm-6{
+    height: 200vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: "B Yekan";
+    align-items: center;
+}
+.content{
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: "B Yekan";
+    align-items: center;
+}
+.main-sec{
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+}
+.round{
+    border-radius: 100px;
+}
+h1{
+    font-family: "Digi Delbar";
+}
+h3{
+    font-family: "Digi Gaf";
+}
